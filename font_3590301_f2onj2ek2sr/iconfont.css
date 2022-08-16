@@ -1,0 +1,91 @@
+@font-face {
+  font-family: "aurora-nav-font"; /* Project id 3590301 */
+  src: url('iconfont.woff2?t=1660637805781') format('woff2'),
+       url('iconfont.woff?t=1660637805781') format('woff'),
+       url('iconfont.ttf?t=1660637805781') format('truetype');
+}
+
+.aurora-nav-font {
+  font-family: "aurora-nav-font" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-navbarman:before {
+  content: "\e62f";
+}
+
+.icon-navbarnotepad:before {
+  content: "\e631";
+}
+
+.icon-navbarshijianzhou:before {
+  content: "\e69a";
+}
+
+.icon-navbargithub:before {
+  content: "\e628";
+}
+
+.icon-navbarbiaoqian:before {
+  content: "\e771";
+}
+
+.icon-navbardianzan:before {
+  content: "\e772";
+}
+
+.icon-navbarfaxian:before {
+  content: "\e773";
+}
+
+.icon-navbardingwei:before {
+  content: "\e774";
+}
+
+.icon-navbarfenxiang:before {
+  content: "\e775";
+}
+
+.icon-navbarlianjie:before {
+  content: "\e776";
+}
+
+.icon-navbarshouye:before {
+  content: "\e777";
+}
+
+.icon-navbartongzhi:before {
+  content: "\e778";
+}
+
+.icon-navbarwenjian:before {
+  content: "\e779";
+}
+
+.icon-navbartuandui:before {
+  content: "\e77a";
+}
+
+.icon-navbartupian:before {
+  content: "\e77b";
+}
+
+.icon-navbarxiangji:before {
+  content: "\e77c";
+}
+
+.icon-navbarzhinan:before {
+  content: "\e77d";
+}
+
+.icon-navbarxiaoxi:before {
+  content: "\e77e";
+}
+
+.icon-navbarwenjianjia:before {
+  content: "\e77f";
+}
+
