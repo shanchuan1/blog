@@ -12,7 +12,7 @@ module.exports = {
                     url: "https://www.iewganfil.top/",
 
                     //站点logo
-                    logo: "/avatar.jpg",
+                    logo: "/fangwei.jpg",
 
                     //站点描述
                     describe: "人生若只是初见,何事秋风悲画扇",
